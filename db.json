@@ -32,54 +32,6 @@
       ]
     },
     {
-      "id": "g78ff",
-      "recipe_name": "Hearty Salmon Meunière",
-      "recipe_image": "https://static.wikia.nocookie.net/zelda/images/6/60/Breath_of_the_Wild_Food_Dishes_Salmon_Mueni%C3%A8re_%28Icon%29.png",
-      "healing": "❤ Full Recovery ",
-      "effect": "Granting Temporary ❤❤❤❤",
-      "ingredients": [
-        [
-          {
-            "name": "Goat Butter",
-            "image": "https://static.wikia.nocookie.net/zelda/images/c/cb/Breath_of_the_Wild_Cooking_Ingredients_Goat_Butter_%28Icon%29.png"
-          }
-        ],
-        [
-          {
-            "name": "Tabantha Wheat",
-            "image": "https://static.wikia.nocookie.net/zelda/images/e/e1/Breath_of_the_Wild_Cooking_Ingredients_Tabantha_Wheat_%28Icon%29.png"
-          }
-        ],
-        [
-          {
-            "name": "Hearty Salmon",
-            "image": "https://static.wikia.nocookie.net/zelda/images/8/82/Breath_of_the_Wild_Fish_%28Salmon%29_Hearty_Salmon_%28Icon%29.png"
-          }
-        ]
-      ]
-    },
-    {
-      "id": "45ffv",
-      "recipe_name": "Fish and Mushroom Skewer",
-      "recipe_image": "https://static.wikia.nocookie.net/zelda/images/a/a3/Breath_of_the_Wild_Food_Dish_%28Skewers%29_Fish_and_Mushroom_Skewer_%28Icon%29.png",
-      "healing": "❤❤❤",
-      "effect": "Recovers Stamina",
-      "ingredients": [
-        [
-          {
-            "name": "Any Fish",
-            "image": "https://static.wikia.nocookie.net/zelda/images/b/ba/Breath_of_the_Wild_Fish_%28Bass%29_Hearty_Bass_%28Icon%29.png"
-          }
-        ],
-        [
-          {
-            "name": "Any Mushroom",
-            "image": "https://static.wikia.nocookie.net/zelda/images/c/cb/Breath_of_the_Wild_Mushrooms_%28Energizing%29_Stamella_Shroom_%28Icon%29.png"
-          }
-        ]
-      ]
-    },
-    {
       "id": "1wdfef",
       "recipe_name": "Spicy Pepper Steak",
       "recipe_image": "https://static.wikia.nocookie.net/zelda/images/5/58/Spicy-pepper-steak.png",
@@ -102,27 +54,6 @@
           {
             "name": "Spicy Pepper",
             "image": "https://static.wikia.nocookie.net/zelda/images/2/2e/Spicy_pepper.png"
-          }
-        ]
-      ]
-    },
-    {
-      "id": "wdwr2r",
-      "recipe_name": "Spicy Fruit and Mushroom Mix",
-      "recipe_image": "https://static.wikia.nocookie.net/zelda/images/8/83/Fruit-and-mushroom-mix.png",
-      "healing": "❤❤❤❤❤",
-      "effect": "Granting Cold Resistance Duration For 8:30 minutes",
-      "ingredients": [
-        [
-          {
-            "name": "Spicy Pepper 2x",
-            "image": "https://static.wikia.nocookie.net/zelda/images/2/2e/Spicy_pepper.png"
-          }
-        ],
-        [
-          {
-            "name": "Hylain Shroom 3x",
-            "image": "https://static.wikia.nocookie.net/zelda/images/c/c8/Hylian_shroom1.png"
           }
         ]
       ]
@@ -246,27 +177,6 @@
           {
             "name": "Yellow Lizalfos Tail",
             "image": "https://www.zeldadungeon.net/wiki/images/2/29/Yellow_Lizalfos_Tail.png"
-          }
-        ]
-      ]
-    },
-    {
-      "id": "r33f9w",
-      "recipe_name": "Fireproof Elixir",
-      "recipe_image": "https://static.wikia.nocookie.net/zelda/images/5/55/Fireproof_elixir.png",
-      "healing": "–",
-      "effect": "Grants Fireproof Buff",
-      "ingredients": [
-        [
-          {
-            "name": "Fireproof Animal",
-            "image": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/0/0a/BotW_Fireproof_Lizard_Icon.png"
-          }
-        ],
-        [
-          {
-            "name": "Any Monster Part",
-            "image": "https://www.zeldadungeon.net/wiki/images/f/f7/BokoblinFang.png"
           }
         ]
       ]
